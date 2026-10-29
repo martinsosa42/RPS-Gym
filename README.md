@@ -175,4 +175,4 @@ TypeScript · React · Vite · Tailwind · NestJS · PostgreSQL · Prisma · Pla
 
 ## Autor
 
-Martín Sergio Sosa · [GitHub](https://github.com/martinsosa42)
+Martín Sergio Sosa, Santino Percodani, Elias Rojas · [GitHub](https://github.com/martinsosa42)
